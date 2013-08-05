@@ -1,3 +1,5 @@
+![screenshot](https://raw.github.com/jeffThompson/iPhoneStethoscopeAttachment/master/Screenshot.png)
+
 iPhone Stethoscope Attachment
 ===========================
 
