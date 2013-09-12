@@ -1,0 +1,8 @@
+NOTES and IDEAS
+
++		Measurements of the iPhone mic:
+		http://blog.faberacoustical.com/2010/ios/iphone/iphone-4-audio-and-frequency-response-limitations/
+
++		Measurement apps for iPhone:
+			- https://itunes.apple.com/us/app/audiotools/id325307477?mt=8
+			- https://itunes.apple.com/us/app/ioscope/id327376319?mt=8&ign-mpt=uo%3D6
