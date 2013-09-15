@@ -3,7 +3,7 @@
 iPhone Stethoscope Attachment
 ===========================
 
-An attachment for the iPhone 4/5 for recording from a stethoscope. Currently a prototype, so print at your own risk!
+An attachment for the iPhone 4 (tested and fits) and iPhone 5 (not tested, but should fit) for recording audio from a stethoscope.
 
 \- \- \-
 
