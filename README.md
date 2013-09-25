@@ -3,6 +3,8 @@
 iPhone Stethoscope Attachment
 ===========================
 
+*Note: this is the final test version, print at your own risk! The final model should be released here shortly.*
+
 An attachment for the iPhone 4 (tested and fits) and iPhone 5 (not tested, but should fit) for recording audio from a stethoscope.
 
 **Audio Analysis**  
